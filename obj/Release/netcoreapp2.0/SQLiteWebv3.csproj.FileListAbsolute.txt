@@ -1,0 +1,12 @@
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\bin\Release\netcoreapp2.0\SQLiteWebv3.deps.json
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\bin\Release\netcoreapp2.0\SQLiteWebv3.runtimeconfig.json
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\bin\Release\netcoreapp2.0\SQLiteWebv3.runtimeconfig.dev.json
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\bin\Release\netcoreapp2.0\SQLiteWebv3.dll
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\bin\Release\netcoreapp2.0\SQLiteWebv3.pdb
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\SQLiteWebv3.csprojResolveAssemblyReference.cache
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\SQLiteWebv3.csproj.CoreCompileInputs.cache
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\SQLiteWebv3.AssemblyInfoInputs.cache
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\SQLiteWebv3.AssemblyInfo.cs
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\SQLiteWebv3.dll
+C:\Users\danielcapacio\Desktop\COMP4976\ASPdotNetCore\SQLiteWebv3\obj\Release\netcoreapp2.0\SQLiteWebv3.pdb
